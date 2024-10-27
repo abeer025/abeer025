@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abeer Iqbal
-- 👀 I’m interested in Web and App Deveoplement. I have expertise in HTML, CSS - Bootsrap & tailwind also.
-- 🌱 I’m currently learning Javascript, React, ReactNative, NodeJS..
+- 👀 I’m interested in Web and App Deveoplement. I have expertise in HTML, CSS - Bootsrap,TailwindCss, Javascript, ReactJs - MaterialUI,TailwindCss,Ant Design,NextUI....
+- 🌱 I’m currently learning  Next Js, MongoDB, backend APIs..
 - 💞️ I’m looking to collaborate as an intern to enhnce my skills and get increase my knowledge.
 - 📫 Passionate to work as developer and to keep adding value to the organization that I represent and serve.
 <!---
